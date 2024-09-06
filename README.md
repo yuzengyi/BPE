@@ -49,9 +49,3 @@ After extensive literature review and in-depth discussions with experts and scho
 ## Conclusion
 Through our research, we have analyzed the currently popular prompt frameworks and ultimately summarized and designed the BPE framework, which comprises five key terms: “Action”, “Purpose”, “Example”, “Role”, and “Excluded Content”. These elements comprehensively describe the specific context and requirements for generating topics, while "Example" provides LLM with learning content, enabling the results to be more akin to real-world scenarios and fully leveraging the powerful capabilities of machine learning.
 
-## References
-- Du Yuzheng, Cao Hui, Nie Yongqi, "Application of Deep Learning in the Classification and Diagnosis of Alzheimer's Disease," Computer Engineering & Applications, 2023, 59(3):17. DOI:10.3778/j.issn.1002-8331.2206-0237.
-- K. A. N. N. P. Gunawardena, R. N. Rajapakse, and N. D. Kodikara, “Applying convolutional neural networks for predetection of Alzheimer’s disease from structural MRI data,” in 2017 24th International Conference on Mechatronics and Machine Vision in Practice (M2VIP), pp. 1-7, Auckland, New Zealand, 2017.
-- G. Livingston, "Dementia prevention, intervention, and care: 2020 report of the Lancet Commission," The Lancet, vol. 396, no. 10248, pp. 413-446, 2020.
-- Stekhoven D J, Bühlmann, Peter. "MissForest - nonparametric missing value imputation for mixed-type data," 2011. DOI:10.1093/bioinformatics.
-- Wang Junjie, Chen Jingwu. "Application of BP neural networks in disease prediction," Journal of Mathematical Medicine, 2008, 21(3):4. DOI:10.3969/j.issn.1004-4337.2008.03.002
